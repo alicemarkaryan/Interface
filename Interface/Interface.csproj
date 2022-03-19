@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbsractClass.cs" />
     <Compile Include="Female.cs" />
     <Compile Include="Human.cs" />
     <Compile Include="IAllDescreaption.cs" />

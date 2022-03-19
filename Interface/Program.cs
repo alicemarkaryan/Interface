@@ -32,6 +32,13 @@ namespace Interface
             Console.WriteLine(f.Age);
 
 
+            Exersice e = new Exersice();
+            e.Exe();
+            e.AA();
+
+            AbsractClass aa = new Exersice();
+            aa.AA();
+
 
         }
     }
